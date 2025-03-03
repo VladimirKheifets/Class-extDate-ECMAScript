@@ -198,7 +198,7 @@ for example:
 ```
 ## 3.7 Method outProp()
 The **outProp method** returns the names and values of all properties as a string for printing.\
-This can be useful for developers for debugging.\
+This can be useful for debugging.\
 for example
 ```js
     const resultCont = document.getElementById("result");
