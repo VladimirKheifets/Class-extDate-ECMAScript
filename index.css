@@ -1,0 +1,39 @@
+body{
+	font-family: arial;
+	font-size: 16px
+}
+
+body div{
+	width: 100%;
+	padding-top: 30px;
+}
+body pre{
+	width: 45%;
+	min-height:40px;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10 10 20 10;
+	text-align: left;
+	white-space: pre;
+	tab-size: 4;
+	float: left;
+}
+span{display: block;
+	width: 45%;
+	padding: 0 10 0 10;
+	margin: 0 10 0 10;
+	text-align: left;
+	font-size: 20px;
+	float: left
+}
+
+button{
+	z-index: 1;
+	position: fixed;
+	top: 12%;
+	left: 85%;
+	font-size: 16px
+}
+
+h2{font-weight: normal}
